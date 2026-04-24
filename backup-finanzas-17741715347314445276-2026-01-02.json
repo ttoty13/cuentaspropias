@@ -1,0 +1,1987 @@
+{
+  "userId": "17741715347314445276",
+  "appId": "c_2591038bdcd778f1_App.jsx-80",
+  "createdAt": "2026-01-02T13:13:57.721Z",
+  "data": {
+    "categories": [
+      {
+        "id": "8oW6XQs4yTI1o4TQXep9",
+        "name": "Caja de Ahorro",
+        "currency": "ARS",
+        "order": 1
+      },
+      {
+        "id": "Fk4l7i0nVOPLXodIQjcw",
+        "order": 2,
+        "name": "Caja de Ahorro",
+        "currency": "USD"
+      },
+      {
+        "id": "Qu6ni0J6pCGyAB416yRA",
+        "name": "Inversiones",
+        "order": 4,
+        "currency": "USD"
+      },
+      {
+        "id": "aJ5kHNcULCxyitf0HIXS",
+        "name": "Efectivo",
+        "order": 6,
+        "currency": "USD"
+      },
+      {
+        "id": "pwaH94SFg656rcYBpkwD",
+        "order": 5,
+        "currency": "ARS",
+        "name": "Efectivo"
+      },
+      {
+        "id": "w782SRhr5afoSmL8USDC",
+        "order": 3,
+        "currency": "ARS",
+        "name": "Inversiones"
+      }
+    ],
+    "snapshots": [
+      {
+        "id": "uYJ7EpfHF3jnLfgpomsg",
+        "exchangeRate": 1455.0,
+        "entries": [
+          {
+            "value": 254438.0,
+            "currency": "ARS",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "name": "Caja de Ahorro"
+          },
+          {
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "value": 2256,
+            "name": "Caja de Ahorro"
+          },
+          {
+            "name": "Inversiones",
+            "categoryId": "w782SRhr5afoSmL8USDC",
+            "currency": "ARS",
+            "value": 2822122
+          },
+          {
+            "name": "Inversiones",
+            "currency": "USD",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "value": 14047
+          },
+          {
+            "categoryId": "pwaH94SFg656rcYBpkwD",
+            "value": 1200000,
+            "name": "Efectivo",
+            "currency": "ARS"
+          },
+          {
+            "name": "Efectivo",
+            "currency": "USD",
+            "value": 750,
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          }
+        ],
+        "date": {
+          "seconds": 1738292400,
+          "nanoseconds": 0
+        },
+        "totalUSD": 20033.18118466899,
+        "totalCapitalARS": 29088675.0,
+        "totalCapitalUSD": 19992.21649484536
+      },
+      {
+        "id": "19C51hao2TukIP1cs3wm",
+        "totalUSD": 19601.14982578397,
+        "exchangeRate": 1455.0,
+        "entries": [
+          {
+            "currency": "ARS",
+            "value": 329947.0,
+            "name": "Caja de Ahorro",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "currency": "USD",
+            "name": "Caja de Ahorro",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "value": 2035
+          },
+          {
+            "currency": "ARS",
+            "name": "Inversiones",
+            "value": 2639753,
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "value": 13785,
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "name": "Inversiones",
+            "currency": "USD"
+          },
+          {
+            "categoryId": "pwaH94SFg656rcYBpkwD",
+            "name": "Efectivo",
+            "value": 1380000,
+            "currency": "ARS"
+          },
+          {
+            "value": 750,
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "currency": "USD",
+            "name": "Efectivo"
+          }
+        ],
+        "date": {
+          "seconds": 1740711600,
+          "nanoseconds": 0
+        },
+        "totalCapitalARS": 28459050.0,
+        "totalCapitalUSD": 19559.484536082473
+      },
+      {
+        "id": "7Zun4LI54E8pq4s0h794",
+        "date": {
+          "seconds": 1740711600,
+          "nanoseconds": 0
+        },
+        "totalUSD": 20124.043902439025,
+        "exchangeRate": 1455.0,
+        "entries": [
+          {
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "currency": "ARS",
+            "name": "Caja de Ahorro",
+            "value": 86354.0
+          },
+          {
+            "name": "Caja de Ahorro",
+            "currency": "USD",
+            "value": 2035,
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "name": "Inversiones",
+            "categoryId": "w782SRhr5afoSmL8USDC",
+            "value": 3837509,
+            "currency": "ARS"
+          },
+          {
+            "name": "Inversiones",
+            "value": 13859,
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "currency": "USD"
+          },
+          {
+            "value": 1070000,
+            "currency": "ARS",
+            "name": "Efectivo",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "name": "Efectivo",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "currency": "USD",
+            "value": 750
+          }
+        ],
+        "totalCapitalARS": 29210883.0,
+        "totalCapitalUSD": 20076.20824742268
+      },
+      {
+        "id": "7kudrxTudm7VOMwqlTyB",
+        "entries": [
+          {
+            "value": 196856.0,
+            "name": "Caja de Ahorro",
+            "currency": "ARS",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "name": "Caja de Ahorro",
+            "currency": "USD",
+            "value": 1999
+          },
+          {
+            "name": "Inversiones",
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC",
+            "value": 4749192
+          },
+          {
+            "currency": "USD",
+            "value": 14148,
+            "name": "Inversiones",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA"
+          },
+          {
+            "categoryId": "pwaH94SFg656rcYBpkwD",
+            "currency": "ARS",
+            "name": "Efectivo",
+            "value": 800000
+          },
+          {
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "currency": "USD",
+            "value": 896,
+            "name": "Efectivo"
+          }
+        ],
+        "totalUSD": 21047.21463414634,
+        "date": {
+          "seconds": 1745982000,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1455.0,
+        "totalCapitalARS": 30543613.0,
+        "totalCapitalUSD": 20992.17388316151
+      },
+      {
+        "id": "ctxkx3pYh56EC2R7nGm8",
+        "entries": [
+          {
+            "value": 46000.0,
+            "currency": "ARS",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "name": "Caja de Ahorro"
+          },
+          {
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "value": 2301,
+            "name": "Caja de Ahorro",
+            "currency": "USD"
+          },
+          {
+            "currency": "ARS",
+            "value": 4301434,
+            "name": "Inversiones",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "value": 14255,
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "currency": "USD",
+            "name": "Inversiones"
+          },
+          {
+            "currency": "ARS",
+            "name": "Efectivo",
+            "value": 40000,
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "value": 1320,
+            "name": "Efectivo",
+            "currency": "USD"
+          }
+        ],
+        "date": {
+          "seconds": 1748660400,
+          "nanoseconds": 0
+        },
+        "totalUSD": 20933.445296167247,
+        "exchangeRate": 1455.0,
+        "totalCapitalARS": 30397014.0,
+        "totalCapitalUSD": 20891.41855670103
+      },
+      {
+        "id": "LFW31URIA6qW60qunR9K",
+        "entries": [
+          {
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "name": "Caja de Ahorro",
+            "currency": "ARS",
+            "value": 423138.0
+          },
+          {
+            "currency": "USD",
+            "name": "Caja de Ahorro",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "value": 2206
+          },
+          {
+            "value": 5544100,
+            "categoryId": "w782SRhr5afoSmL8USDC",
+            "currency": "ARS",
+            "name": "Inversiones"
+          },
+          {
+            "value": 14336,
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "currency": "USD",
+            "name": "Inversiones"
+          },
+          {
+            "value": 80000,
+            "categoryId": "pwaH94SFg656rcYBpkwD",
+            "currency": "ARS",
+            "name": "Efectivo"
+          },
+          {
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "value": 1311,
+            "name": "Efectivo",
+            "currency": "USD"
+          }
+        ],
+        "totalUSD": 22067.103135888505,
+        "exchangeRate": 1455.0,
+        "date": {
+          "seconds": 1751252400,
+          "nanoseconds": 0
+        },
+        "totalCapitalARS": 32023353.0,
+        "totalCapitalUSD": 22009.17731958763
+      },
+      {
+        "id": "UGH4LwHFZGBsg9axrvCl",
+        "totalUSD": 19502.197909407663,
+        "entries": [
+          {
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "value": 130139.0,
+            "currency": "ARS",
+            "name": "Caja de Ahorro"
+          },
+          {
+            "name": "Caja de Ahorro",
+            "value": 757,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "value": 5288280,
+            "currency": "ARS",
+            "name": "Inversiones",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "currency": "USD",
+            "value": 12613,
+            "name": "Inversiones"
+          },
+          {
+            "name": "Efectivo",
+            "categoryId": "pwaH94SFg656rcYBpkwD",
+            "value": 1500000,
+            "currency": "ARS"
+          },
+          {
+            "name": "Efectivo",
+            "value": 1311,
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          }
+        ],
+        "exchangeRate": 1455.0,
+        "date": {
+          "seconds": 1753585200,
+          "nanoseconds": 0
+        },
+        "totalCapitalARS": 28279274.0,
+        "totalCapitalUSD": 19435.927147766324
+      },
+      {
+        "id": "xd9AfNaz0JgauBXhAFrN",
+        "totalUSD": 21581.70243902439,
+        "exchangeRate": 1455.0,
+        "date": {
+          "seconds": 1756609200,
+          "nanoseconds": 0
+        },
+        "entries": [
+          {
+            "value": 92420.0,
+            "currency": "ARS",
+            "name": "Caja de Ahorro",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "name": "Caja de Ahorro",
+            "value": 1566
+          },
+          {
+            "value": 5119498,
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC",
+            "name": "Inversiones"
+          },
+          {
+            "name": "Inversiones",
+            "value": 12669,
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "currency": "USD"
+          },
+          {
+            "value": 1370000,
+            "name": "Efectivo",
+            "currency": "ARS",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "name": "Efectivo",
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "value": 2760
+          }
+        ],
+        "totalCapitalARS": 31309643.0,
+        "totalCapitalUSD": 21518.65498281787
+      },
+      {
+        "id": "3w4n4EHsw171edCIKkiV",
+        "totalUSD": 22145.620905923344,
+        "date": {
+          "seconds": 1759201200,
+          "nanoseconds": 0
+        },
+        "entries": [
+          {
+            "value": 435445.0,
+            "currency": "ARS",
+            "name": "Caja de Ahorro",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "name": "Caja de Ahorro",
+            "value": 2109,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "currency": "ARS",
+            "value": 6121521,
+            "name": "Inversiones",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "currency": "USD",
+            "name": "Inversiones",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "value": 12331
+          },
+          {
+            "value": 540000,
+            "currency": "ARS",
+            "name": "Efectivo",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "name": "Efectivo",
+            "value": 2760,
+            "currency": "USD"
+          }
+        ],
+        "exchangeRate": 1455.0,
+        "totalCapitalARS": 32122966.0,
+        "totalCapitalUSD": 22077.639862542957
+      },
+      {
+        "id": "e1OjkpJzVznDOhMejCQM",
+        "date": {
+          "seconds": 1761793200,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1455.0,
+        "totalUSD": 22797.347735191637,
+        "entries": [
+          {
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "name": "Caja de Ahorro",
+            "value": 70000.0,
+            "currency": "ARS"
+          },
+          {
+            "value": 2794,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "name": "Caja de Ahorro"
+          },
+          {
+            "currency": "ARS",
+            "value": 4593229,
+            "name": "Inversiones",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "name": "Inversiones",
+            "currency": "USD",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "value": 13085
+          },
+          {
+            "name": "Efectivo",
+            "value": 730000,
+            "categoryId": "pwaH94SFg656rcYBpkwD",
+            "currency": "ARS"
+          },
+          {
+            "value": 3160,
+            "name": "Efectivo",
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          }
+        ],
+        "totalCapitalARS": 33094974.0,
+        "totalCapitalUSD": 22745.686597938144
+      },
+      {
+        "id": "Byj2bHMqOUdI8RVHZIwN",
+        "exchangeRate": 1455.0,
+        "date": {
+          "seconds": 1764374400,
+          "nanoseconds": 0
+        },
+        "entries": [
+          {
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "value": 886715.0,
+            "name": "Caja de Ahorro",
+            "currency": "ARS"
+          },
+          {
+            "value": 2797.58,
+            "name": "Caja de Ahorro",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw",
+            "currency": "USD"
+          },
+          {
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC",
+            "name": "Inversiones",
+            "value": 1936463.27
+          },
+          {
+            "categoryId": "Qu6ni0J6pCGyAB416yRA",
+            "name": "Inversiones",
+            "value": 14169.0237942656,
+            "currency": "USD"
+          },
+          {
+            "value": 870000,
+            "name": "Efectivo",
+            "currency": "ARS",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS",
+            "value": 2887.8,
+            "name": "Efectivo"
+          }
+        ],
+        "totalUSD": 21928.04718799382,
+        "totalCapitalARS": 32581335.790656447,
+        "totalCapitalUSD": 22392.670646499275
+      },
+      {
+        "id": "snap_1769392144",
+        "date": {
+          "seconds": 1769310000,
+          "nanoseconds": 0
+        },
+        "entries": [
+          {
+            "categoryId": "8oW6XQs4yTI1o4TQXep9",
+            "value": 886715,
+            "name": "Caja de Ahorro",
+            "currency": "ARS"
+          },
+          {
+            "name": "Caja de Ahorro",
+            "value": 2797.58,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "name": "Inversiones",
+            "value": 1936463.27,
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "name": "Inversiones",
+            "value": 14169.0237942656,
+            "currency": "USD",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA"
+          },
+          {
+            "name": "Efectivo",
+            "value": 870000.0,
+            "currency": "ARS",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "name": "Efectivo",
+            "value": 2887.8,
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          }
+        ],
+        "exchangeRate": 1455.0,
+        "totalCapitalARS": 31694620.790656447,
+        "totalCapitalUSD": 21783.244529660788,
+        "totalAmount": 32197532.714771137
+      },
+      {
+        "id": "s_1769521014",
+        "date": {
+          "seconds": 1769482800,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1490.0,
+        "entries": [
+          {
+            "name": "Caja de Ahorro",
+            "value": 1274679.0,
+            "currency": "ARS",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "name": "Caja de Ahorro",
+            "value": 1283.0,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "name": "Inversiones",
+            "value": 3505160.0,
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "name": "Inversiones",
+            "value": 16083.99,
+            "currency": "USD",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA"
+          },
+          {
+            "name": "Efectivo",
+            "value": 2840000.0,
+            "currency": "ARS",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          },
+          {
+            "name": "Efectivo",
+            "value": 6787.8,
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          }
+        ]
+      },
+      {
+        "id": "s_1772303159",
+        "date": {
+          "seconds": 1772247600,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1435.0,
+        "entries": [
+          {
+            "name": "Caja de Ahorro",
+            "value": 19690549.0,
+            "currency": "ARS",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "name": "Caja de Ahorro",
+            "value": 694.0,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "name": "Inversiones",
+            "value": 3289780.0,
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "name": "Inversiones",
+            "value": 15924.0,
+            "currency": "USD",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA"
+          },
+          {
+            "name": "Efectivo",
+            "value": 4324.0,
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          },
+          {
+            "name": "Efectivo",
+            "value": 1700000.0,
+            "currency": "ARS",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          }
+        ]
+      },
+      {
+        "id": "s_1775132817",
+        "date": {
+          "seconds": 1775098800,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1405.0,
+        "entries": [
+          {
+            "name": "Caja de Ahorro",
+            "value": 12686974.0,
+            "currency": "ARS",
+            "categoryId": "8oW6XQs4yTI1o4TQXep9"
+          },
+          {
+            "name": "Caja de Ahorro",
+            "value": 796.0,
+            "currency": "USD",
+            "categoryId": "Fk4l7i0nVOPLXodIQjcw"
+          },
+          {
+            "name": "Inversiones",
+            "value": 2501646.0,
+            "currency": "ARS",
+            "categoryId": "w782SRhr5afoSmL8USDC"
+          },
+          {
+            "name": "Inversiones",
+            "value": 16106.0,
+            "currency": "USD",
+            "categoryId": "Qu6ni0J6pCGyAB416yRA"
+          },
+          {
+            "name": "Efectivo",
+            "value": 3554.0,
+            "currency": "USD",
+            "categoryId": "aJ5kHNcULCxyitf0HIXS"
+          },
+          {
+            "name": "Efectivo",
+            "value": 1300000.0,
+            "currency": "ARS",
+            "categoryId": "pwaH94SFg656rcYBpkwD"
+          }
+        ]
+      }
+    ],
+    "investments": [
+      {
+        "id": "5MwzMkfyKIMm4jGryeyK",
+        "purchaseDate": "{'seconds': 1672531200, 'nanoseconds': 0}",
+        "currency": "ARS",
+        "lastValue": 14610.0,
+        "name": "PG",
+        "quantity": 6.0,
+        "avgPrice": 7544.33,
+        "order": 8,
+        "valueHistory": [
+          {
+            "id": "41njCz26nMwUg1XkU7io",
+            "unitPrice": 7544.33,
+            "type": "buy",
+            "date": {
+              "seconds": 1672542000,
+              "nanoseconds": 0
+            },
+            "exchangeRate": 1435,
+            "quantity": 11.6
+          },
+          {
+            "id": "CzbYcwj9lxHx6udGr6H5",
+            "type": "update",
+            "quantity": 11.6,
+            "unitPrice": 1256.896551724138,
+            "exchangeRate": 1435,
+            "date": {
+              "seconds": 1761782400,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "Ef3SBUenYJSX37PXRFb7",
+            "exchangeRate": 1435,
+            "quantity": 6,
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "unitPrice": 14950,
+            "type": "snapshot",
+            "totalValue": 89700
+          },
+          {
+            "id": "IODoTehSO2XhtMYT7qTk",
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            },
+            "quantity": 6,
+            "unitPrice": 14610,
+            "type": "snapshot",
+            "exchangeRate": 1530,
+            "totalValue": 87660
+          },
+          {
+            "date": {
+              "seconds": 1769310000,
+              "nanoseconds": 0
+            },
+            "quantity": 6.0,
+            "price": 14610.0,
+            "totalValue": 87660.0
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 0.0,
+            "price": 0,
+            "totalValue": 0.0,
+            "exchangeRate": 1490.0
+          }
+        ],
+        "currentPrice": 14610.0
+      },
+      {
+        "id": "9rJB0nc0RWa6359hIsXB",
+        "purchaseDate": "{'seconds': 1764374400, 'nanoseconds': 0}",
+        "currency": "ARS",
+        "lastValue": 905.4068441064638,
+        "name": "Fima ",
+        "quantity": 1841.0,
+        "avgPrice": NaN,
+        "order": 0,
+        "valueHistory": [
+          {
+            "id": "4O5G7iASokDOjHo1qyH5",
+            "exchangeRate": 1435,
+            "quantity": 1841,
+            "unitPrice": 248.47,
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "type": "snapshot",
+            "totalValue": 457433.27
+          },
+          {
+            "id": "rZjAlLTPISn2ncO9v0Iq",
+            "unitPrice": 905.4068441064638,
+            "exchangeRate": 1530,
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            },
+            "type": "snapshot",
+            "quantity": 1841,
+            "totalValue": 1666854
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 0.0,
+            "price": 0,
+            "totalValue": 0.0,
+            "exchangeRate": 1490.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "ARC3X3KKvPJHxSdwBDfU",
+        "purchaseDate": "{'seconds': 1672531200, 'nanoseconds': 0}",
+        "currency": "USD",
+        "lastValue": 0.6749999999999999,
+        "name": "AL30D",
+        "quantity": 5312.0,
+        "avgPrice": 0.47,
+        "order": 2,
+        "valueHistory": [
+          {
+            "id": "3NL6P02jnDCAH7LFwS41",
+            "unitPrice": 0.5988328313253012,
+            "type": "update",
+            "quantity": 5312,
+            "exchangeRate": 1430,
+            "date": {
+              "seconds": 1753574400,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "3X8R5EpTFCfd4NqwUThq",
+            "type": "update",
+            "date": {
+              "seconds": 1759190400,
+              "nanoseconds": 0
+            },
+            "quantity": 5312,
+            "exchangeRate": 1430,
+            "unitPrice": 0.5
+          },
+          {
+            "id": "Gl0EEJ0zLbyCTW1Dzz5L",
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "type": "snapshot",
+            "unitPrice": 0.648800828313253,
+            "exchangeRate": 1435,
+            "totalValue": 3446.43,
+            "quantity": 5312
+          },
+          {
+            "id": "TyMu66snVm1WnCbKw8iO",
+            "quantity": 5312,
+            "unitPrice": 0.6749999999999999,
+            "type": "snapshot",
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            },
+            "exchangeRate": 1530,
+            "totalValue": 3585.6
+          },
+          {
+            "id": "X9MgCCqwmqMb7AISvRqj",
+            "date": {
+              "seconds": 1740700800,
+              "nanoseconds": 0
+            },
+            "quantity": 5312,
+            "unitPrice": 0.6389307228915663,
+            "exchangeRate": 1430,
+            "type": "update"
+          },
+          {
+            "id": "XT8sxQKEBKhPgmGdmLoe",
+            "exchangeRate": 1430,
+            "quantity": 5312,
+            "type": "update",
+            "unitPrice": 0.6396009036144579,
+            "date": {
+              "seconds": 1761782400,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "ZtSPFKvTU8D1JU3ZxoyA",
+            "unitPrice": 0.6570030120481928,
+            "quantity": 5312,
+            "exchangeRate": 1430,
+            "type": "update",
+            "date": {
+              "seconds": 1738195200,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "lcsKz5N1IRGaM4pI8lYc",
+            "type": "update",
+            "exchangeRate": 1430,
+            "unitPrice": 0.6364834337349398,
+            "quantity": 5312,
+            "date": {
+              "seconds": 1743206400,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "ncBctnOwtMjf8VzxRPMn",
+            "unitPrice": 0.5886671686746988,
+            "date": {
+              "seconds": 1756512000,
+              "nanoseconds": 0
+            },
+            "exchangeRate": 1430,
+            "type": "update",
+            "quantity": 5312
+          },
+          {
+            "id": "pgKL59xKWYD5AYzyZuCk",
+            "date": {
+              "seconds": 1748649600,
+              "nanoseconds": 0
+            },
+            "quantity": 5312,
+            "unitPrice": 0.6818524096385542,
+            "exchangeRate": 1430,
+            "type": "update"
+          },
+          {
+            "id": "rQ8G4POsH1evwe43z8jL",
+            "exchangeRate": 1430,
+            "type": "buy",
+            "date": {
+              "seconds": 1672542000,
+              "nanoseconds": 0
+            },
+            "unitPrice": 0.47,
+            "quantity": 5312
+          },
+          {
+            "id": "sGO44Vzy58Roya1d8Dxo",
+            "unitPrice": 0.7673192771084337,
+            "date": {
+              "seconds": 1700784000,
+              "nanoseconds": 0
+            },
+            "quantity": 5312,
+            "type": "update",
+            "exchangeRate": 1430
+          },
+          {
+            "id": "wbjyhAfKhsfqLmMmn3vJ",
+            "date": {
+              "seconds": 1751241600,
+              "nanoseconds": 0
+            },
+            "unitPrice": 0.6841114457831325,
+            "type": "update",
+            "exchangeRate": 1430,
+            "quantity": 5312
+          },
+          {
+            "id": "xzc1VDXUp7nVyXNpCIp0",
+            "quantity": 5312,
+            "type": "update",
+            "date": {
+              "seconds": 1745971200,
+              "nanoseconds": 0
+            },
+            "exchangeRate": 1430,
+            "unitPrice": 0.6735692771084337
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 5312.0,
+            "price": 0.6099002259036145,
+            "totalValue": 3239.79
+          },
+          {
+            "date": {
+              "seconds": 1772247600,
+              "nanoseconds": 0
+            },
+            "quantity": 5312.0,
+            "price": 0.6039156626506024,
+            "totalValue": 3208.0,
+            "exchangeRate": 1435.0
+          },
+          {
+            "date": {
+              "seconds": 1775098800,
+              "nanoseconds": 0
+            },
+            "quantity": 5312.0,
+            "price": 0.6140003765060241,
+            "totalValue": 3261.57,
+            "exchangeRate": 1405.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "DXPfdXwn2Qq6pKvDL8v0",
+        "purchaseDate": "{'seconds': 1764374400, 'nanoseconds': 0}",
+        "currency": "USD",
+        "lastValue": 92316.6241776434,
+        "name": "Bitcoin",
+        "quantity": 0.01043799,
+        "avgPrice": NaN,
+        "order": 3,
+        "valueHistory": [
+          {
+            "id": "FI1bxKG4Xxg3kA9L8vKi",
+            "type": "snapshot",
+            "unitPrice": 90845.44,
+            "totalValue": 948.2437942656,
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "exchangeRate": 1435,
+            "quantity": 0.01043799
+          },
+          {
+            "id": "uzGKMu3e6SbBE0cDa0UE",
+            "unitPrice": 92316.6241776434,
+            "type": "snapshot",
+            "exchangeRate": 1530,
+            "totalValue": 963.6,
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            },
+            "quantity": 0.01043799
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 0.01043799,
+            "price": 91160.27127828251,
+            "totalValue": 951.53,
+            "exchangeRate": 1490.0
+          },
+          {
+            "date": {
+              "seconds": 1772247600,
+              "nanoseconds": 0
+            },
+            "quantity": 0.01043799,
+            "price": 67541.73935786488,
+            "totalValue": 705.0,
+            "exchangeRate": 1435.0
+          },
+          {
+            "date": {
+              "seconds": 1775098800,
+              "nanoseconds": 0
+            },
+            "quantity": 0.01043799,
+            "price": 65990.67444977433,
+            "totalValue": 688.81,
+            "exchangeRate": 1405.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "K9DLzsDz9UJ2n3OTON7M",
+        "purchaseDate": "{'seconds': 1764374400, 'nanoseconds': 0}",
+        "currency": "USD",
+        "lastValue": 11.713814064362335,
+        "name": "Fima Renta Fija",
+        "quantity": 839.0,
+        "avgPrice": NaN,
+        "order": 1,
+        "valueHistory": [
+          {
+            "id": "qpM1OtZDTHfwNd4seKhS",
+            "totalValue": 9827.89,
+            "type": "snapshot",
+            "unitPrice": 11.713814064362335,
+            "exchangeRate": 1530,
+            "quantity": 839,
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "tuj6VcVyIkgh2PQofPLx",
+            "exchangeRate": 1435,
+            "totalValue": 9774.35,
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "type": "snapshot",
+            "unitPrice": 11.65,
+            "quantity": 839
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 839.0,
+            "price": 11.791025029797378,
+            "totalValue": 9892.67
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 1008.0,
+            "price": 11.79828373015873,
+            "totalValue": 11892.67
+          },
+          {
+            "date": {
+              "seconds": 1772247600,
+              "nanoseconds": 0
+            },
+            "quantity": 1008.0,
+            "price": 11.915674603174603,
+            "totalValue": 12011.0,
+            "exchangeRate": 1435.0
+          },
+          {
+            "date": {
+              "seconds": 1775098800,
+              "nanoseconds": 0
+            },
+            "quantity": 1008.0,
+            "price": 12.061230158730158,
+            "totalValue": 12157.72,
+            "exchangeRate": 1405.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "KRDKWZrTe7vtP6TFemNW",
+        "purchaseDate": "{'seconds': 1672531200, 'nanoseconds': 0}",
+        "currency": "ARS",
+        "lastValue": 30460.0,
+        "name": "HMY",
+        "quantity": 73.0,
+        "avgPrice": 3695.18,
+        "order": 5,
+        "valueHistory": [
+          {
+            "id": "KyiyP4UM9i9rCrAb4kuG",
+            "totalValue": 1852673,
+            "quantity": 475.32,
+            "unitPrice": 24060,
+            "exchangeRate": 1435,
+            "date": {
+              "seconds": 1672531200,
+              "nanoseconds": 0
+            },
+            "type": "buy"
+          },
+          {
+            "id": "evOF8QMrdhk6Sd0QqRdW",
+            "date": {
+              "seconds": 1764374400,
+              "nanoseconds": 0
+            },
+            "unitPrice": 29620,
+            "type": "snapshot",
+            "quantity": 73,
+            "exchangeRate": 1435,
+            "totalValue": 2162260
+          },
+          {
+            "id": "gtN8GhgyiAI9KnME01dZ",
+            "quantity": 475.32,
+            "totalValue": 2162260,
+            "unitPrice": 50.618530674072204,
+            "type": "update",
+            "exchangeRate": 1435,
+            "date": {
+              "seconds": 1761782400,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "tnWqeRYRLTwcvrc1XDsu",
+            "unitPrice": 30460,
+            "type": "snapshot",
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            },
+            "quantity": 73,
+            "exchangeRate": 1530,
+            "totalValue": 2223580
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 73.0,
+            "price": 35840.0,
+            "totalValue": 2616320.0,
+            "exchangeRate": 1490.0
+          },
+          {
+            "date": {
+              "seconds": 1772247600,
+              "nanoseconds": 0
+            },
+            "quantity": 73.0,
+            "price": 32860.0,
+            "totalValue": 2398780.0,
+            "exchangeRate": 1435.0
+          },
+          {
+            "date": {
+              "seconds": 1775098800,
+              "nanoseconds": 0
+            },
+            "quantity": 73.0,
+            "price": 24050.0,
+            "totalValue": 1755650.0,
+            "exchangeRate": 1405.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "bzhzNorPj3sPCBkQislE",
+        "purchaseDate": "{'seconds': 1672531200, 'nanoseconds': 0}",
+        "currency": "ARS",
+        "lastValue": 26820.0,
+        "name": "PAAS",
+        "quantity": 27.0,
+        "avgPrice": 4336.33,
+        "order": 7,
+        "valueHistory": [
+          {
+            "id": "DvOuTSK0HbFCwqbe4DE0",
+            "exchangeRate": 1435,
+            "quantity": 105.73,
+            "unitPrice": 160.59774898325924,
+            "date": {
+              "seconds": 1761782400,
+              "nanoseconds": 0
+            },
+            "type": "update"
+          },
+          {
+            "id": "K54AuYvLdr34K6AUTMa4",
+            "type": "buy",
+            "date": {
+              "seconds": 1672542000,
+              "nanoseconds": 0
+            },
+            "exchangeRate": 1435,
+            "unitPrice": 4336.33,
+            "quantity": 105.73
+          },
+          {
+            "id": "hP3pWxaM2M1qcAscxUj6",
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "totalValue": 625050,
+            "exchangeRate": 1435,
+            "quantity": 27,
+            "type": "snapshot",
+            "unitPrice": 23150
+          },
+          {
+            "id": "jJsuzpqEkICivjcew2uT",
+            "quantity": 27,
+            "exchangeRate": 1530,
+            "totalValue": 724140,
+            "type": "snapshot",
+            "unitPrice": 26820,
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 27.0,
+            "price": 32920.0,
+            "totalValue": 888840.0,
+            "exchangeRate": 1490.0
+          },
+          {
+            "date": {
+              "seconds": 1772247600,
+              "nanoseconds": 0
+            },
+            "quantity": 27.0,
+            "price": 33000.0,
+            "totalValue": 891000.0,
+            "exchangeRate": 1435.0
+          },
+          {
+            "date": {
+              "seconds": 1775098800,
+              "nanoseconds": 0
+            },
+            "quantity": 27.0,
+            "price": 27600.0,
+            "totalValue": 745200.0,
+            "exchangeRate": 1405.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "sI77CQlpMT2HC876JOjE",
+        "purchaseDate": "{'seconds': 1672531200, 'nanoseconds': 0}",
+        "currency": "ARS",
+        "lastValue": 25560.0,
+        "name": "MELLI",
+        "quantity": 13.0,
+        "avgPrice": 18578.0,
+        "order": 6,
+        "valueHistory": [
+          {
+            "id": "G0pAUvwNXT8OJ0zFC0rv",
+            "exchangeRate": 1435,
+            "totalValue": 343720,
+            "quantity": 13,
+            "unitPrice": 26440,
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "type": "snapshot"
+          },
+          {
+            "id": "JIzNZusedWvrFOkpEOSH",
+            "quantity": 13,
+            "unitPrice": 25560,
+            "type": "snapshot",
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            },
+            "totalValue": 332280,
+            "exchangeRate": 1530
+          },
+          {
+            "id": "Tld0qsyqMIpTbiEtGbTZ",
+            "exchangeRate": 1435,
+            "date": {
+              "seconds": 1761782400,
+              "nanoseconds": 0
+            },
+            "unitPrice": 1429.1799787007453,
+            "type": "update",
+            "quantity": 18.78
+          },
+          {
+            "id": "VLivVv6xhqRahhUhq4uc",
+            "unitPrice": 18578,
+            "exchangeRate": 1435,
+            "quantity": 18.78,
+            "date": {
+              "seconds": 1672542000,
+              "nanoseconds": 0
+            },
+            "type": "buy"
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 0.0,
+            "price": 0,
+            "totalValue": 0.0,
+            "exchangeRate": 1490.0
+          }
+        ],
+        "currentPrice": NaN
+      },
+      {
+        "id": "wuxvNkhB2f9jrgp4xJkX",
+        "purchaseDate": "{'seconds': 1672531200, 'nanoseconds': 0}",
+        "currency": "ARS",
+        "lastValue": 34880.0,
+        "name": "BRKB",
+        "quantity": 11.0,
+        "avgPrice": 12516.5,
+        "order": 4,
+        "valueHistory": [
+          {
+            "id": "8a2doo6T3Kq8jUm5cTVw",
+            "exchangeRate": 1435,
+            "date": {
+              "seconds": 1761782400,
+              "nanoseconds": 0
+            },
+            "type": "update",
+            "unitPrice": 33578,
+            "quantity": 11
+          },
+          {
+            "id": "DRxZ4yNxdHDZ6PB4EFhD",
+            "quantity": 11,
+            "exchangeRate": 1530,
+            "unitPrice": 34880,
+            "totalValue": 383680,
+            "type": "snapshot",
+            "date": {
+              "seconds": 1767366000,
+              "nanoseconds": 0
+            }
+          },
+          {
+            "id": "XAGvv1edQGuRXIYWSrHz",
+            "type": "buy",
+            "unitPrice": 12516.5,
+            "exchangeRate": 1435,
+            "date": {
+              "seconds": 1672531200,
+              "nanoseconds": 0
+            },
+            "quantity": 29.51
+          },
+          {
+            "id": "h9gp15Ay2SKpVpsxwXlh",
+            "date": {
+              "seconds": 1764428400,
+              "nanoseconds": 0
+            },
+            "quantity": 11,
+            "type": "snapshot",
+            "totalValue": 390940,
+            "exchangeRate": 1435,
+            "unitPrice": 35540
+          },
+          {
+            "date": {
+              "seconds": 1769482800,
+              "nanoseconds": 0
+            },
+            "quantity": 0.0,
+            "price": 0,
+            "totalValue": 0.0,
+            "exchangeRate": 1490.0
+          }
+        ],
+        "currentPrice": NaN
+      }
+    ],
+    "portfolioSummary": [
+      {
+        "id": "main",
+        "totalCapitalARS": 6590839.3115
+      }
+    ],
+    "portfolioSnapshots": [],
+    "piggyBanks": [
+      {
+        "id": "4mYB809EJdj9JbNUkhUF",
+        "order": 3,
+        "currency": "USD",
+        "name": "Auto",
+        "type": "GASTO"
+      },
+      {
+        "id": "YS4ZKLpHXHhkTi1lydQw",
+        "order": 0,
+        "currency": "ARS",
+        "name": "Sueldo Municipalidad",
+        "type": "AHORRO"
+      },
+      {
+        "id": "YroUPsy8aCGYG56L3kWX",
+        "order": 4,
+        "currency": "USD",
+        "name": "Altos de Podesta",
+        "type": "GASTO"
+      },
+      {
+        "id": "ZEFbKqLllXQDfRLWQFv8",
+        "order": 2,
+        "currency": "USD",
+        "name": "Trabajos Adicionales",
+        "type": "AHORRO"
+      },
+      {
+        "id": "mPoixJXxx5mEPmSXTHwD",
+        "order": 1,
+        "currency": "ARS",
+        "name": "Sueldo inni",
+        "type": "AHORRO"
+      },
+      {
+        "id": "pb_prestamo_capital",
+        "name": "Préstamo (Capital)",
+        "type": "GASTO",
+        "currency": "ARS",
+        "order": 0
+      }
+    ],
+    "piggyBankExpenses": [
+      {
+        "id": "0DXmG2LAGFHIbLGuzDQI",
+        "exchangeRate": 1435,
+        "bankId": "ZEFbKqLllXQDfRLWQFv8",
+        "currency": "USD",
+        "amount": 500,
+        "description": "planos",
+        "date": {
+          "seconds": 1763218800,
+          "nanoseconds": 0
+        }
+      },
+      {
+        "id": "2xv4aMK5FnY0amXC9JHI",
+        "currency": "ARS",
+        "description": "Escalera y columna frente",
+        "date": {
+          "seconds": 1746068400,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1435,
+        "amount": 547672,
+        "bankId": "YroUPsy8aCGYG56L3kWX"
+      },
+      {
+        "id": "E4LiQUhkT0o3xf1hGiro",
+        "date": {
+          "seconds": 1618412400,
+          "nanoseconds": 0
+        },
+        "description": "compra",
+        "exchangeRate": 1490,
+        "bankId": "4mYB809EJdj9JbNUkhUF",
+        "amount": 9000,
+        "currency": "USD"
+      },
+      {
+        "id": "FwW2PNoehZWVwmCKTHHY",
+        "description": "Reja patio",
+        "amount": 495000,
+        "bankId": "YroUPsy8aCGYG56L3kWX",
+        "exchangeRate": 1435,
+        "date": {
+          "seconds": 1743476400,
+          "nanoseconds": 0
+        },
+        "currency": "ARS"
+      },
+      {
+        "id": "JO9bPTaSHD40C3pfZlac",
+        "date": {
+          "seconds": 1684033200,
+          "nanoseconds": 0
+        },
+        "bankId": "YroUPsy8aCGYG56L3kWX",
+        "amount": 2236339,
+        "exchangeRate": 1430,
+        "description": "arreglos iniciales",
+        "currency": "ARS"
+      },
+      {
+        "id": "RFqN4D0bO9BFhVHrAcJl",
+        "currency": "ARS",
+        "amount": 1268578,
+        "exchangeRate": 1490,
+        "date": {
+          "seconds": 1765724400,
+          "nanoseconds": 0
+        },
+        "bankId": "YS4ZKLpHXHhkTi1lydQw",
+        "description": "2do Aguinaldo 25"
+      },
+      {
+        "id": "RdNmE6cI4CsiGnwVm3bv",
+        "date": {
+          "seconds": 1767106800,
+          "nanoseconds": 0
+        },
+        "currency": "USD",
+        "exchangeRate": 1530,
+        "bankId": "ZEFbKqLllXQDfRLWQFv8",
+        "amount": 5000,
+        "description": "wern"
+      },
+      {
+        "id": "YUSXFZOV68tpFIi6wjVw",
+        "currency": "ARS",
+        "bankId": "YroUPsy8aCGYG56L3kWX",
+        "exchangeRate": 1430,
+        "amount": 6493402,
+        "description": "generales+garage+techo+galeria",
+        "date": {
+          "seconds": 1726282800,
+          "nanoseconds": 0
+        }
+      },
+      {
+        "id": "a5KD9Flr2i2nPraJHirN",
+        "exchangeRate": 1435,
+        "bankId": "YS4ZKLpHXHhkTi1lydQw",
+        "date": {
+          "seconds": 1764428400,
+          "nanoseconds": 0
+        },
+        "currency": "ARS",
+        "amount": 2537156.38,
+        "description": "NOV 25"
+      },
+      {
+        "id": "b8BTd6OzfC2wvRr8ApBe",
+        "currency": "ARS",
+        "exchangeRate": 1435,
+        "description": "Ventanas Patio",
+        "date": {
+          "seconds": 1743476400,
+          "nanoseconds": 0
+        },
+        "bankId": "YroUPsy8aCGYG56L3kWX",
+        "amount": 1280000
+      },
+      {
+        "id": "euLorIJUTABqHLnpv5hG",
+        "exchangeRate": 1435,
+        "currency": "ARS",
+        "bankId": "YS4ZKLpHXHhkTi1lydQw",
+        "amount": 2429063.22,
+        "date": {
+          "seconds": 1761836400,
+          "nanoseconds": 0
+        },
+        "description": "OCT 25"
+      },
+      {
+        "id": "fmVwOjs9fKo3eVPuvAjF",
+        "description": "compra",
+        "date": {
+          "seconds": 1618412400,
+          "nanoseconds": 0
+        },
+        "bankId": "4mYB809EJdj9JbNUkhUF",
+        "currency": "ARS",
+        "exchangeRate": 1490,
+        "amount": 900000
+      },
+      {
+        "id": "gkbcYGhPWS3ZXMBQQIgP",
+        "amount": 1200000,
+        "description": "Materiales mueble living",
+        "currency": "ARS",
+        "exchangeRate": 1435,
+        "date": {
+          "seconds": 1760929200,
+          "nanoseconds": 0
+        },
+        "bankId": "YroUPsy8aCGYG56L3kWX"
+      },
+      {
+        "id": "hpCrgtgRPYvhawZWWbL1",
+        "description": "Puerta Patio",
+        "date": {
+          "seconds": 1740798000,
+          "nanoseconds": 0
+        },
+        "currency": "ARS",
+        "bankId": "YroUPsy8aCGYG56L3kWX",
+        "amount": 587000,
+        "exchangeRate": 1435
+      },
+      {
+        "id": "rvsGSRbzaHGkUyXxcXv5",
+        "currency": "ARS",
+        "description": "NOV 25",
+        "bankId": "mPoixJXxx5mEPmSXTHwD",
+        "exchangeRate": 1435,
+        "date": {
+          "seconds": 1764428400,
+          "nanoseconds": 0
+        },
+        "amount": 1241524
+      },
+      {
+        "id": "s2zMTYUBENlIaKAqRw9S",
+        "exchangeRate": 1435,
+        "amount": 1241015,
+        "bankId": "mPoixJXxx5mEPmSXTHwD",
+        "description": "OCT 25",
+        "currency": "ARS",
+        "date": {
+          "seconds": 1761836400,
+          "nanoseconds": 0
+        }
+      },
+      {
+        "id": "ylb6iCdF7T7E8lphnphr",
+        "amount": 75000,
+        "description": "gastos actualizacion de estado parcelario",
+        "currency": "ARS",
+        "exchangeRate": 1490,
+        "date": {
+          "seconds": 1766070000,
+          "nanoseconds": 0
+        },
+        "bankId": "YroUPsy8aCGYG56L3kWX"
+      },
+      {
+        "id": "z5xVBA4VF0ZCd1ZuBz2R",
+        "date": {
+          "seconds": 1766761200,
+          "nanoseconds": 0
+        },
+        "exchangeRate": 1530,
+        "currency": "ARS",
+        "bankId": "YS4ZKLpHXHhkTi1lydQw",
+        "amount": 2537156,
+        "description": "DIC 25"
+      },
+      {
+        "date": {
+          "seconds": 1768532400,
+          "nanoseconds": 0
+        },
+        "amount": 1820000.0,
+        "currency": "ARS",
+        "piggyBankId": "ZEFbKqLllXQDfRLWQFv8",
+        "description": "comision ML"
+      },
+      {
+        "date": {
+          "seconds": 1768273200,
+          "nanoseconds": 0
+        },
+        "amount": 952000.0,
+        "currency": "ARS",
+        "piggyBankId": "4mYB809EJdj9JbNUkhUF",
+        "description": "cambio de correa"
+      },
+      {
+        "date": {
+          "seconds": 1770260400,
+          "nanoseconds": 0
+        },
+        "amount": 2661465.0,
+        "currency": "ARS",
+        "piggyBankId": "YS4ZKLpHXHhkTi1lydQw",
+        "description": ""
+      },
+      {
+        "date": {
+          "seconds": 1770260400,
+          "nanoseconds": 0
+        },
+        "amount": 1223564.0,
+        "currency": "ARS",
+        "piggyBankId": "mPoixJXxx5mEPmSXTHwD",
+        "description": ""
+      },
+      {
+        "date": {
+          "seconds": 1770260400,
+          "nanoseconds": 0
+        },
+        "amount": 450000.0,
+        "currency": "ARS",
+        "piggyBankId": "ZEFbKqLllXQDfRLWQFv8",
+        "description": "eliana"
+      },
+      {
+        "date": {
+          "seconds": 1770778800,
+          "nanoseconds": 0
+        },
+        "amount": 25000000.0,
+        "currency": "ARS",
+        "piggyBankId": "pb_prestamo_capital",
+        "description": "acreditacion prestamo"
+      },
+      {
+        "date": {
+          "seconds": 1770778800,
+          "nanoseconds": 0
+        },
+        "amount": -2460000.0,
+        "currency": "ARS",
+        "piggyBankId": "pb_prestamo_capital",
+        "description": "pago escritura"
+      },
+      {
+        "date": {
+          "seconds": 1772247600,
+          "nanoseconds": 0
+        },
+        "amount": 1120000.0,
+        "currency": "ARS",
+        "piggyBankId": "ZEFbKqLllXQDfRLWQFv8",
+        "description": "tramite chino"
+      },
+      {
+        "date": {
+          "seconds": 1772247600,
+          "nanoseconds": 0
+        },
+        "amount": 450000.0,
+        "currency": "ARS",
+        "piggyBankId": "ZEFbKqLllXQDfRLWQFv8",
+        "description": "eliana"
+      },
+      {
+        "date": {
+          "seconds": 1772247600,
+          "nanoseconds": 0
+        },
+        "amount": 1120000.0,
+        "currency": "ARS",
+        "piggyBankId": "ZEFbKqLllXQDfRLWQFv8",
+        "description": "tramite chino 2"
+      },
+      {
+        "date": {
+          "seconds": 1772247600,
+          "nanoseconds": 0
+        },
+        "amount": 1000.0,
+        "currency": "USD",
+        "piggyBankId": "ZEFbKqLllXQDfRLWQFv8",
+        "description": "padle"
+      },
+      {
+        "date": {
+          "seconds": 1773889200,
+          "nanoseconds": 0
+        },
+        "amount": 1241309.0,
+        "currency": "ARS",
+        "piggyBankId": "mPoixJXxx5mEPmSXTHwD",
+        "description": ""
+      },
+      {
+        "date": {
+          "seconds": 1775098800,
+          "nanoseconds": 0
+        },
+        "amount": 282829.0,
+        "currency": "ARS",
+        "piggyBankId": "YS4ZKLpHXHhkTi1lydQw",
+        "description": ""
+      },
+      {
+        "date": {
+          "seconds": 1775098800,
+          "nanoseconds": 0
+        },
+        "amount": 1292249.0,
+        "currency": "ARS",
+        "piggyBankId": "mPoixJXxx5mEPmSXTHwD",
+        "description": ""
+      }
+    ],
+    "loan_payments": [
+      {
+        "date": {
+          "seconds": 1773198000,
+          "nanoseconds": 0
+        },
+        "amount": 302467.0,
+        "uvas_amount": 160.0,
+        "note": "Cuota 1/180"
+      },
+      {
+        "date": {
+          "seconds": 1776049200,
+          "nanoseconds": 0
+        },
+        "amount": 312260.0,
+        "uvas_amount": 160.0,
+        "note": "Cuota 2/180"
+      }
+    ]
+  }
+}
